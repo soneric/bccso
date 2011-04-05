@@ -29,7 +29,7 @@ main()
 	float pontosDentroDoCirculo = 0;
 	int iX;
 	int iY;	
-	int pontosParaOPai = 0;
+	int pontosParaOPai = 0;	
 
 	pid = fork();
 	pid2 = fork();

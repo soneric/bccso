@@ -1,4 +1,4 @@
-# by Heredia, Eduardo (C) 2011
+
 
 .PHONY: all clean
 
